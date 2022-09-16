@@ -19,6 +19,6 @@ PRIVATE_KEY=
 `npx hardhat run scripts/read-slots.js`
 
 * * *
-The Vault Contract is already deployed to Goerli Network
+The Vault Contract is already deployed to **Goerli** Network
 
-Contract Address: `0x761804d060dC7eEb46c05c99354A683e3B856C90`
+**Contract Address**: `0x761804d060dC7eEb46c05c99354A683e3B856C90`
